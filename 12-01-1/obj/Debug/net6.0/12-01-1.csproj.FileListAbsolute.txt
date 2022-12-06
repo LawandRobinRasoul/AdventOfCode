@@ -1,0 +1,15 @@
+C:\AdventCode\12-01-1\bin\Debug\net6.0\12-01-1.exe
+C:\AdventCode\12-01-1\bin\Debug\net6.0\12-01-1.deps.json
+C:\AdventCode\12-01-1\bin\Debug\net6.0\12-01-1.runtimeconfig.json
+C:\AdventCode\12-01-1\bin\Debug\net6.0\12-01-1.dll
+C:\AdventCode\12-01-1\bin\Debug\net6.0\12-01-1.pdb
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.csproj.AssemblyReference.cache
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.AssemblyInfoInputs.cache
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.AssemblyInfo.cs
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.csproj.CoreCompileInputs.cache
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.dll
+C:\AdventCode\12-01-1\obj\Debug\net6.0\refint\12-01-1.dll
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.pdb
+C:\AdventCode\12-01-1\obj\Debug\net6.0\12-01-1.genruntimeconfig.cache
+C:\AdventCode\12-01-1\obj\Debug\net6.0\ref\12-01-1.dll
